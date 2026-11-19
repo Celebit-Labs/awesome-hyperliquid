@@ -80,6 +80,7 @@ Wallets with built-in Hyperliquid perps or HyperEVM support.
 Check custody, fees and copy rules on each product's own pages before connecting a wallet.
 
 - [Perpex](https://perpex.co/copy-trading) - Analyze any Hyperliquid wallet's PnL, win rate and risk, then copy it with size limits from your own account.
+- [AlphaYou](https://app.alphayou.net/hyperliquid-copy-trading) - Ranks Hyperliquid traders and mirrors a chosen wallet through a trade-only agent.
 - [Arco](https://arco.so) - Screener of active Hyperliquid traders with automated trade mirroring.
 - [Coinpilot](https://coinpilot.com) - Mobile app for copying Hyperliquid perp traders.
 - [Dexly](https://dexly.trade) - Self-custodial Hyperliquid interface with copy trading and risk limits.
