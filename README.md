@@ -92,6 +92,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Bitsgap](https://bitsgap.com/crypto-trading-bot/hyperliquid) - Multi-exchange platform with grid and DCA bots for Hyperliquid.
 - [goodcryptoX](https://goodcrypto.app/hyperliquid-trading-bot/) - Trading app with Hyperliquid grid, DCA and trailing orders.
 - [Katoshi](https://katoshi.ai) - Hyperliquid automation with webhooks, TradingView alerts and scripted triggers.
+- [PerpGuard](https://perpguard.com) - Trade-only agent that trims leveraged Hyperliquid positions before liquidation.
 - [Senpi](https://senpi.ai) - Agent that runs Hyperliquid strategies from templates or plain-language prompts.
 - [WunderTrading](https://wundertrading.com/en/hyperliquid-trading-bot) - Multi-exchange platform with Hyperliquid grid, DCA and signal bots.
 
