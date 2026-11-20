@@ -151,6 +151,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [CCXT](https://github.com/ccxt/ccxt) - Unified multi-exchange trading library with a Hyperliquid integration.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
+- [Ironflow](https://ironflow.sh) - REST, SQL and MCP access to Hyperliquid fills, liquidations and funding from its own nodes.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
 
 ## Learning
