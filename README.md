@@ -96,6 +96,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [PerpGuard](https://perpguard.com) - Trade-only agent that trims leveraged Hyperliquid positions before liquidation.
 - [Senpi](https://senpi.ai) - Agent that runs Hyperliquid strategies from templates or plain-language prompts.
 - [WunderTrading](https://wundertrading.com/en/hyperliquid-trading-bot) - Multi-exchange platform with Hyperliquid grid, DCA and signal bots.
+- [Hyperliquid Starter Bots](https://github.com/Hyperliquidguide/hyperliquid-starter-bots) - Open-source Python market maker, scalper, grid and funding-arb bots with risk limits, dry-run and testnet by default, plus an AGENTS.md for Claude Code and Codex.
 
 ## Analytics and explorers
 
@@ -152,6 +153,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
+- [Hyperliquid Guide MCP](https://github.com/Hyperliquidguide/hyperliquid-starter-bots#use-it-from-your-coding-agent) - Read-only MCP server and Agent Skill for coding agents: live market specs, order rounding, funding rankings and error explanations. Holds no keys.
 
 ## Learning
 
