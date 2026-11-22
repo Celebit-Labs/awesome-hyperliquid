@@ -109,6 +109,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 ## Wallet trackers
 
 - [CoinGlass whale tracker](https://www.coinglass.com/hyperliquid) - Large-position monitoring and alerts for Hyperliquid.
+- [HL Risk Watch](https://hl-risk-watch.pages.dev/) - Watch-only liquidation distance and funding drain for any public Hyperliquid address.
 - [HyperTracker](https://hypertracker.io) - Wallet and whale tracker with position feeds and an API.
 - [Nansen](https://www.nansen.ai/hyperliquid) - Wallet labels and smart-money tracking for Hyperliquid.
 
