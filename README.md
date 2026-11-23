@@ -149,6 +149,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [hyperliquid (nktkas)](https://github.com/nktkas/hyperliquid) - TypeScript SDK for Node, Deno, Bun and browsers.
 - [hypersdk](https://github.com/infinitefield/hypersdk) - Rust SDK, referenced by the official docs.
 - [CCXT](https://github.com/ccxt/ccxt) - Unified multi-exchange trading library with a Hyperliquid integration.
+- [ETHTokenLaunch](https://www.ethtokenlaunch.com/elysium-token-creator/) - No-code creator for fixed-supply ERC-20 tokens on Elysium, a Hyperliquid Layer 2.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
