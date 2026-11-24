@@ -110,6 +110,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 
 - [CoinGlass whale tracker](https://www.coinglass.com/hyperliquid) - Large-position monitoring and alerts for Hyperliquid.
 - [HyperTracker](https://hypertracker.io) - Wallet and whale tracker with position feeds and an API.
+- [LabelYX](https://labelyx.xyz) - Free wallet tracker with PnL, win rate, net deposits, positions and liquidation distance.
 - [Nansen](https://www.nansen.ai/hyperliquid) - Wallet labels and smart-money tracking for Hyperliquid.
 
 ## HIP-3 markets
