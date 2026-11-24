@@ -71,6 +71,7 @@ Web frontends and terminals that trade on Hyperliquid, most of them through buil
 Wallets with built-in Hyperliquid perps or HyperEVM support.
 
 - [MetaMask](https://metamask.io/perps) - EVM wallet with in-app perps that trade through Hyperliquid.
+- [Ownbit](https://ownbit.io/en/hyperevm-multisig-wallet/) - Self-custody HyperEVM wallet for HYPE and ERC-20 tokens, with QR offline signing and on-chain multisig.
 - [Phantom](https://phantom.com/perpetual-futures) - Multichain wallet with Hyperliquid-powered perps and HyperEVM support.
 - [Rabby](https://rabby.io) - EVM wallet with HyperEVM built in, recommended in the Hyperliquid docs.
 - [Trust Wallet](https://trustwallet.com/perps) - Self-custody wallet with native Hyperliquid perps.
