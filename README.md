@@ -152,6 +152,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
+- [senpi-skills](https://github.com/Senpi-ai/senpi-skills) - MIT-licensed agent skills and 140+ Hyperliquid strategy templates in Python, used by Senpi agents.
 
 ## Learning
 
