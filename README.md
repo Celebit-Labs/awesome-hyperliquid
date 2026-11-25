@@ -152,6 +152,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
+- [hip3-oracle-guard](https://github.com/imokokok/hip3-oracle-guard) - Read-only TypeScript guard library for HIP-3 deployer oracles: staleness, deviation, bounds, off-hours and halt checks.
 
 ## Learning
 
