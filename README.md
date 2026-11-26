@@ -162,6 +162,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [CCXT](https://github.com/ccxt/ccxt) - Unified multi-exchange trading library with a Hyperliquid integration.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
+- [Hypr Markets](https://app.hypr.markets/hyperliquid-white-label) - No-code white-label Hyperliquid trading terminal with your own domain and builder fee.
 - [Ironflow](https://ironflow.sh) - REST, SQL and MCP access to Hyperliquid fills, liquidations and funding from its own nodes.
 - [TikTape](https://tiktape.xyz) - Hyperliquid OHLCV history API past the 5000-candle limit.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
