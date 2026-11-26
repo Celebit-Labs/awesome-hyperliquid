@@ -112,6 +112,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [ASXN Hyperscreener](https://hyperscreener.asxn.xyz) - Dashboard for perps, spot, HIP-3, HyperEVM, revenue and builder codes.
 - [CoinGlass liquidation map](https://www.coinglass.com/hyperliquid-liquidation-map) - Liquidation levels for large Hyperliquid positions.
 - [DefiLlama](https://defillama.com/protocol/hyperliquid) - Volume, fees, revenue and builder-code revenue by interface.
+- [EdgeRadar](https://roy19012e.github.io/edgeradar/vault-audit.html) - Zero-key Hyperliquid vault fee and L2 spread auditor with a 7-tool MCP server.
 - [HyperEVMScan](https://hyperevmscan.io) - Etherscan-family explorer for HyperEVM.
 - [HypurrScan](https://hypurrscan.io) - HyperCore explorer with HIP-3, builder and auction pages.
 
