@@ -158,6 +158,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hyperliquid API](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api) - Official info, exchange and WebSocket endpoints.
 - [hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - Official Python SDK for trading and data.
 - [hyperliquid (nktkas)](https://github.com/nktkas/hyperliquid) - TypeScript SDK for Node, Deno, Bun and browsers.
+- [Hyperliquid JavaScript SDK (Siebly)](https://siebly.io/sdk/hyperliquid/javascript/tutorial) - Node.js and TypeScript SDK for Hyperliquid REST APIs and WebSockets.
 - [hypersdk](https://github.com/infinitefield/hypersdk) - Rust SDK, referenced by the official docs.
 - [CCXT](https://github.com/ccxt/ccxt) - Unified multi-exchange trading library with a Hyperliquid integration.
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
