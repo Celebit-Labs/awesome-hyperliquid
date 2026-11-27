@@ -95,6 +95,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Dexly](https://dexly.trade) - Self-custodial Hyperliquid interface with copy trading and risk limits.
 - [Farao](https://getfarao.com) - Self-custodial mobile app for copying positions on Hyperliquid.
 - [Hyperdash Copytrade](https://hyperdash.com/copytrading) - Copy ranked Hyperliquid traders from the Hyperdash platform.
+- [Mirrorly](https://mirrorly.xyz) - Self-custodial cross-exchange copy trading for Hyperliquid perps with curated leaderboards and risk controls.
 
 ## Trading bots
 
