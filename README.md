@@ -111,6 +111,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Perpex Markets](https://perpex.co/markets/funding-rates) - Hourly Hyperliquid funding rates compared with Binance and Bybit, plus open interest per market.
 - [ASXN Hyperscreener](https://hyperscreener.asxn.xyz) - Dashboard for perps, spot, HIP-3, HyperEVM, revenue and builder codes.
 - [CoinGlass liquidation map](https://www.coinglass.com/hyperliquid-liquidation-map) - Liquidation levels for large Hyperliquid positions.
+- [Crypto Alpha Scanner](https://quietstack-labs.github.io/crypto-alpha-scanner/) - Client-side Hyperliquid and Binance perpetual funding-rate arbitrage and Polymarket spread scanner.
 - [DefiLlama](https://defillama.com/protocol/hyperliquid) - Volume, fees, revenue and builder-code revenue by interface.
 - [HyperEVMScan](https://hyperevmscan.io) - Etherscan-family explorer for HyperEVM.
 - [HypurrScan](https://hypurrscan.io) - HyperCore explorer with HIP-3, builder and auction pages.
