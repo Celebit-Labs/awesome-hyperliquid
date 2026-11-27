@@ -61,6 +61,7 @@ Web frontends and terminals that trade on Hyperliquid, most of them through buil
 - [Hyperdash](https://hyperdash.com) - Trading platform and analytics for Hyperliquid markets and traders.
 - [Insilico Terminal](https://insilicoterminal.com) - Order and execution management terminal that connects to Hyperliquid.
 - [Lit](https://www.lit.trade) - Hyperliquid trading terminal with on-chart orders and multi-chart layouts.
+- [Prow](https://prowdex.com) - Non-custodial app for Hyperliquid, Aster and Lighter perps, with bots and prediction markets.
 - [pvp.trade](https://pvp.trade) - Telegram bot for trading Hyperliquid perps inside group chats.
 - [trade.xyz](https://app.trade.xyz) - Trading interface for HIP-3 markets such as stocks and commodities.
 
