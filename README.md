@@ -94,6 +94,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Coinpilot](https://coinpilot.com) - Mobile app for copying Hyperliquid perp traders.
 - [Dexly](https://dexly.trade) - Self-custodial Hyperliquid interface with copy trading and risk limits.
 - [Farao](https://getfarao.com) - Self-custodial mobile app for copying positions on Hyperliquid.
+- [hypercopy](https://www.hypercopy.co/) - Telegram bot and web terminal that copies Hyperliquid perps traders through a trade-only agent key.
 - [Hyperdash Copytrade](https://hyperdash.com/copytrading) - Copy ranked Hyperliquid traders from the Hyperdash platform.
 
 ## Trading bots
