@@ -166,6 +166,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [TikTape](https://tiktape.xyz) - Hyperliquid OHLCV history API past the 5000-candle limit.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
 - [senpi-plugin](https://github.com/Senpi-ai/senpi-plugin) - Read-only Hyperliquid research tools for Claude Code, Codex and Cursor; needs a Senpi sign-in.
+- [exchange-api-checks](https://github.com/takinanton/exchange-api-checks) - Scripts that check what the live Hyperliquid API returns against what SDKs assume.
 
 ## Learning
 
